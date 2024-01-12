@@ -2,6 +2,8 @@
   "files.associations": {
     "*html": "html",
     "time.h": "c",
-    "string.h": "c"
+    "string.h": "c",
+    "windows.h": "c",
+    "conio.h": "c"
   }
 }
